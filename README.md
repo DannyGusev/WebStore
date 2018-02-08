@@ -15,4 +15,4 @@ user : Admin<br/>
 pass : Admin<br/>
 <br/>
 <br/>
-developed by Danny Gusev
+
